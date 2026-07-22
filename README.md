@@ -153,22 +153,9 @@ Training: Adam optimizer, MSE loss, batch size 32, max 100 epochs, early stoppin
 ```
 StockPriceVolatilityForecasting/
 ├── README.md
-├── data/                          # Download from Kaggle (see Dataset section)
-│   └── .gitkeep
-├── notebooks/
-│   └── stock_forecasting.ipynb
-├── src/
-│   ├── preprocessing.py
-│   ├── feature_engineering.py
-│   ├── models/
-│   │   ├── baseline.py
-│   │   ├── arima_model.py
-│   │   ├── garch_model.py
-│   │   └── gru_model.py
-│   └── evaluation.py
-├── results/
-│   └── figures/
-└── requirements.txt
+├── requirements.txt
+└── notebooks/
+    └── stock_price_volatility_forecasting.ipynb
 ```
 
 *Adjust the folder structure above to match your actual file organization.*

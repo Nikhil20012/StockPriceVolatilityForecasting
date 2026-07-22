@@ -2,8 +2,6 @@
 
 Stock price and volatility forecasting using statistical and deep learning models on NVDA, AAPL, and TSLA daily data (2010-2023). Compares Naive, Moving Average, ARIMA, GARCH(1,1), and GRU across multiple evaluation horizons.
 
-Built for IE 7275 Data Mining Engineering at Northeastern University, Spring 2026.
-
 ## Problem
 
 Given historical daily stock price data (Open, High, Low, Close, Adjusted Close, Volume) for NVIDIA, Apple, and Tesla, can we build models that accurately forecast future prices and volatility? The project addresses four problems:

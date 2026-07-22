@@ -158,11 +158,9 @@ StockPriceVolatilityForecasting/
     └── stock_price_volatility_forecasting.ipynb
 ```
 
-*Adjust the folder structure above to match your actual file organization.*
-
 ## Setup
 
 1. Clone the repo
-2. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/umerhaddii/big-tech-giants-stock-price-dataset) and place both CSV files in the `data/` folder
+2. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/umerhaddii/big-tech-giants-stock-price-dataset)
 3. Install dependencies: `pip install -r requirements.txt`
-4. Run the notebook or scripts
+4. Open the notebook in Google Colab or Jupyter and upload the CSV files when prompted
